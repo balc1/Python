@@ -14,7 +14,7 @@ How It Works:
 
 Enter your website or account information.
 Input your password.
-Click 'Save' to securely store your password.
+Click 'Add' to securely store your password.
 Need to see an old password? Use the 'Search' feature.
 Want a new password? Click 'Generate' and replace your old one with a strong, fresh code.
 With our Password Manager, your online security is in your hands. Say goodbye to the hassle of forgotten passwords and hello to a safer and more convenient digital life.
